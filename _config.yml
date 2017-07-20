@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :"shivangrana123"
+  username               : "shivangrana123"
 facebook:
-  username               :"shivang.rana"
+  username               : "shivang.rana"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -78,10 +78,10 @@ analytics:
 # Site Author
 author:
   name             : "Shivang Rana"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Developer by profession."
   location         : "Hyderabad"
-  email            :"shivangrana123@gmail.com"
+  email            : "shivangrana123@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
