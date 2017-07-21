@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
+locale                   : "en-IN"
 title                    : "Change in inevitable"
 title_separator          : "-"
 name                     : "Shivang Rana"
@@ -87,7 +87,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "shivang.rana"
+  facebook         : 
   foursquare       :
   github           :
   gitlab           :
@@ -101,7 +101,7 @@ author:
   stackoverflow    : "4325736/shivang-rana"
   steam            :
   tumblr           :
-  twitter          : "shivangrana123"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -242,8 +242,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
 
-theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
